@@ -1,5 +1,3 @@
-<h1 align="center">👋 Γειά σας!</h1>
-
 <img align="top" width="100%" alt="molos" id="molos" src="./molos-3:1.jpg">
 <p align="center"><i>"You stop learning when you think you know everything"</i></p>
 
